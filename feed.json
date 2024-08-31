@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "My own little space",
+    "description": "",
+    "home_page_url": "https://dayeyes.github.io",
+    "feed_url": "https://dayeyes.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Day"
+    },
+    "items": [
+        {
+            "id": "https://dayeyes.github.io/the-best-time-to-start-a-game-is-when-you-are-most-excited-for-it.html",
+            "url": "https://dayeyes.github.io/the-best-time-to-start-a-game-is-when-you-are-most-excited-for-it.html",
+            "title": "The best time to start a game is when you are most excited for it",
+            "summary": "The issue is that happens to be when you buy it and likely don't have time right that second to start it.&nbsp; Back in the&hellip;",
+            "content_html": "\n  <p>\n    The issue is that happens to be when you buy it and likely don't have time right that second to start it.&nbsp;\n  </p>\n\n  <p>\n    Back in the day, a new game would come out and you'd see it at the store or rental place. You wanted to play it NOW, no... you needed to play it now. That excitement carried on through to getting home and obvious booting up the game as soon as possible. Now days, you buy a game on a sale, and you'll play it at some point... the excitement of wanting to play it only dwindles making it less and less likely that you'll play it.\n  </p>",
+            "author": {
+                "name": "Day"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-08-31T17:26:38-04:00",
+            "date_modified": "2024-08-31T17:35:42-04:00"
+        }
+    ]
+}

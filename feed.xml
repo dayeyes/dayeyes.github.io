@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>My own little space</title>
+    <link href="https://dayeyes.github.io/feed.xml" rel="self" />
+    <link href="https://dayeyes.github.io" />
+    <updated>2024-08-31T17:35:42-04:00</updated>
+    <author>
+        <name>Day</name>
+    </author>
+    <id>https://dayeyes.github.io</id>
+
+    <entry>
+        <title>The best time to start a game is when you are most excited for it</title>
+        <author>
+            <name>Day</name>
+        </author>
+        <link href="https://dayeyes.github.io/the-best-time-to-start-a-game-is-when-you-are-most-excited-for-it.html"/>
+        <id>https://dayeyes.github.io/the-best-time-to-start-a-game-is-when-you-are-most-excited-for-it.html</id>
+
+        <updated>2024-08-31T17:26:38-04:00</updated>
+            <summary>
+                <![CDATA[
+                    The issue is that happens to be when you buy it and likely don't have time right that second to start it.&nbsp; Back in the&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    The issue is that happens to be when you buy it and likely don't have time right that second to start it.&nbsp;
+  </p>
+
+  <p>
+    Back in the day, a new game would come out and you'd see it at the store or rental place. You wanted to play it NOW, no... you needed to play it now. That excitement carried on through to getting home and obvious booting up the game as soon as possible. Now days, you buy a game on a sale, and you'll play it at some point... the excitement of wanting to play it only dwindles making it less and less likely that you'll play it.
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

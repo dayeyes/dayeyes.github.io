@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://dayeyes.github.io/sitemap.xml
