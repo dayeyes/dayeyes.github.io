@@ -3,12 +3,125 @@
     <title>My own little space</title>
     <link href="https://dayeyes.github.io/feed.xml" rel="self" />
     <link href="https://dayeyes.github.io" />
-    <updated>2024-08-31T17:35:42-04:00</updated>
+    <updated>2024-10-03T17:44:35-04:00</updated>
     <author>
         <name>Day</name>
     </author>
     <id>https://dayeyes.github.io</id>
 
+    <entry>
+        <title>Satisfactory is a good introduction to the factory genre.</title>
+        <author>
+            <name>Day</name>
+        </author>
+        <link href="https://dayeyes.github.io/satisfactory-is-a-good-introduction-to-the-factory-genre.html"/>
+        <id>https://dayeyes.github.io/satisfactory-is-a-good-introduction-to-the-factory-genre.html</id>
+
+        <updated>2024-10-03T17:44:35-04:00</updated>
+            <summary>
+                <![CDATA[
+                    So why do I not like it? It has all the usual bits from a good factory game: Sadly all those great points are undercut&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>So why do I not like it?</p>
+<p>It has all the usual bits from a good factory game:</p>
+<ul>
+<li>Rising complexity
+<ul>
+<li>Later recipes require fluids, and more components</li>
+<li>Alt recipes are interesting</li>
+</ul>
+</li>
+<li>Interesting rewards
+<ul>
+<li>Hoverpack is great</li>
+<li>some of the weapons are interesting</li>
+</ul>
+</li>
+<li>Sprawling factories that you can marvel in
+<ul>
+<li>This one looks especially impressive with it being 3D</li>
+</ul>
+</li>
+<li>Trains and signals
+<ul>
+<li>Choo choo motherfucker</li>
+</ul>
+</li>
+</ul>
+<p> </p>
+<p>Sadly all those great points are undercut by design decsions that have been done better in other games.</p>
+<ul>
+<li>Rising complexity
+<ul>
+<li>fluids are fickle, and can become a pain to work with</li>
+<li>the issues with machines buffering several times it's need with the lack of splitters makes later builds a pain to maintain expandability and throughput</li>
+<li>Alt recipes can be straight upgrades, forcing you to rebuild stuff because you didn't know about the recipe beforehand.</li>
+<li>3D makes every build slower than other games which means towards the end I felt like I was grinding because I had already figured out how to get to the end, I was just going through the motions.</li>
+</ul>
+</li>
+<li>Interesting rewards
+<ul>
+<li>The hoverpack is a solution to a issue that plagues the whole game, that the first person view is terrible for building a factory. It should be unlocked MUCH sooner.</li>
+<li>The interesting stuff is in the MaM rather than anything you make your factory for, which sucks. 
+<ul>
+<li>I don't like exploring in this game, and it really sucks that the best rewards are behind exploring. It'd be like playing a platformer, and the double jump is unlocked by the optional puzzle minigame.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Sprawling factories
+<ul>
+<li>3D is really cool, but it's hard to see what parts machines are producing unless you are on top of them or remember what they produce.
+<ul>
+<li>When you put up walls to make things pretty this only makes things worst.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Trains
+<ul>
+<li>A pain to set up, and honestly, not even sure if they are worth it.
+<ul>
+<li>Signals have confusing error messages</li>
+<li>A train has to enter the block before a path signal before it'll start figuring out if the intersection is clear, so you get these random train slowdowns if you don't plan around that. Really annoying when trains are already so slow for how spread out resources are.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>What pains me even more is that some of these issues can be things they can fix, but considering the game has been in early access for years, I think they are set on their vision which sucks.</p>
+<p>Things being slower in 3D seems like a feature rather than a bug considering how shit their blueprint system is.</p>
+<p>They can add more to the game, and make interesting rewards. Maybe a machine that unlocks alt recipes over time.</p>
+<p>Being lost in your own factory can be fixed by some quality of life. I suppose I could set up more signage in my factory, but I'd rather be building more machines than writing documentation for what my factory is doing.</p>
+<p>Trains need to be buffed, or have some sort of upgrade.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>In search of a novel challenge: Why Roguelikes fail at this.</title>
+        <author>
+            <name>Day</name>
+        </author>
+        <link href="https://dayeyes.github.io/in-search-of-a-challenge-why-roguelikes-fail-at-this.html"/>
+        <id>https://dayeyes.github.io/in-search-of-a-challenge-why-roguelikes-fail-at-this.html</id>
+
+        <updated>2024-09-02T13:01:40-04:00</updated>
+            <summary>
+                <![CDATA[
+                    I'm playing 'tales and tactics' and after a few hours I've gotten the hang of the auto chess mechanics and the game is unlocking more&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I'm playing 'tales and tactics' and after a few hours I've gotten the hang of the auto chess mechanics and the game is unlocking more starting perks so the game is getting literally easier. Then I notice that there are diffcultly levels you can climb to make the game challenging again. I do the first one, and while it adds unique challenges to the game it still feels 90% the same game. Then I quit the game and consider it done.</p>
+<p>Why should I bother with optional challenges when I've seen 90% of the game already. Upping the diffcultly just means I'll be forced to find the 'winning strategies' and just stick to those which sounds really boring. In the case of 'Tales and Tactics' certain starting characters seem way better than others. So why shouldn't I just try to do my 'winning strategy' every time. The only reward you get for beating the higher diffculty is more diffcultly levels which is a poor reward for someone who wants to beat the game. It is a treadmill, and honestly I like running, but I also love variety. So without a new carrot to tease me to reach higher I'll just play something else that will offer a novel challenge.</p>
+<p>Hades is maybe the only roguelike that manages to entice me to play at a higher diffculty. </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>The best time to start a game is when you are most excited for it</title>
         <author>
